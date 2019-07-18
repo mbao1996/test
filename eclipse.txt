@@ -1,0 +1,5 @@
+1. Eclipse中如何设置选中变量和函数的高亮颜色
+    在【Preferences】窗体中依次点击【General】——【Editors】——【Text Editors】——【Annotations】，
+    显示右侧的【Annotations】区域。在Annotation types中选择【Occurrences】，然后在右侧的【Color】中可以设置一个颜色，
+    并且将【Text as】设置为Highlighted，最后点击【Apply】按钮，即可使设置生效。
+
